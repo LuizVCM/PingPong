@@ -1,0 +1,19 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-image: url(https://cdn.dribbble.com/userupload/21438631/file/original-f9167755988d521921071c92f09cfed4.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: auto;
+    color: white;
+    margin: 20px;
+}
+
+/* Estilo do canvas */
+canvas{
+    background: rgb(157,157, 236);
+    display: block;
+    margin: 20px auto;
+    border: 2px solid white;
+    
+}
